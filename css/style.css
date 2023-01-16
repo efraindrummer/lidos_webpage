@@ -234,7 +234,7 @@ a:focus {
   text-transform: uppercase;
   font-size: 24px;
   font-weight: 700;
-  color: #8547ca;
+  color: #F8D946;
   margin-top: 5px;
 }
 
@@ -540,7 +540,7 @@ a:focus {
 }
 
 .about_section {
-  background-image: url(../images/about-bg.jpg);
+  background-image: url(../images/about-bg\ \(2\).jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
